@@ -1,0 +1,17 @@
+Resin headcap assembly (2 embedded resin drives) 		
+
+
+Qty	Name						Vendor		Item number		Notes				Link
+					
+2	00-90 screw 1/2"				McMaster-Carr	92482A235						https://www.mcmaster.com/92482A235/
+6	00-90	hex nut				McMaster-Carr	92736A112						https://www.mcmaster.com/92736A112/
+
+Tools				
+1	T1 screwdriver				McMaster-Carr	52995A3						https://www.mcmaster.com/52995a31
+1 	Fine forceps				F.S.T			11254-20						https://www.finescience.com/en-US/Products/Forceps-Hemostats/Dumont-Forceps/Dumont-5-Fine-Forceps
+
+Chemicals	
+1	Waterproof polyurethane glue		Amazon		B0000223UV		Adhesive			https://www.amazon.com/Gorilla-Original-Waterproof-Polyurethane-Bottle/dp/B0000223UV/ref=asc_df_B0000223UV/?tag=hyprod-20&linkCode=df0&hvadid=693270340452&hvpos=&hvnetw=g&hvrand=18019919083118822588&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001901&hvtargid=pla-318296752492&mcid=8eb6c6e598c13c40b7dbf070a7f0185b&gad_source=1&th=1
+1	Quick setting epoxy			Amazon		B009EU5ZM0		Adhesive			https://www.amazon.com/J-B-Weld-50112-Clear-0-85/dp/B009EU5ZM0?ref_=ast_sto_dp&th=1
+1	Petroleum jelly				Amazon		B001ECQ4L2		Lubrication			https://www.amazon.com/Vaseline-Petroleum-Jelly-Original-pack/dp/B001ECQ4L2/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.wlUayCkS28HCKGPbuZJuEOhYlXVeprGUmcne9gBnJEO5oNcGJRu21Uigqmw7oX9PTMtdwJK3Hif6uEXieNFkx1LmqUTcvmBCbWCHTk5DSoo27yRFzeKBopIlZKb9aD9fTXE8ZT-tGb8wcgRwhNKcwAJRGxa6kNFzI6vqP-nH82ZVI3NaS6ZwNPhfnKVkRH9DtkwqQhsK2Z3IWCEtsYZtZN3C8XsH6ZC1419qWaahQZOOH0hs8RJjI4g0OPFd-7n4gwkgVPZAjqDTT9q-UxQGFCZs6jl8IxMY3Di_K7kTVSc.7QwsgmilpU-RV67XqNtfllFX1FVmKdaO3SJmQBaJgI8&dib_tag=se&keywords=vaseline&qid=1722875483&rdc=1&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+1	Clear resin V4				Formlabs		RS-F2-GPCL-04	3D-printing material	https://formlabs.com/store/materials/clear-resin-v4/
